@@ -1,0 +1,21 @@
+@font-face {
+  font-family: "iconfont"; /* Project id  */
+  src: url('iconfont.ttf?t=1653115446826') format('truetype');
+}
+
+[class*='qu-icon'] {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.qu-icon-yanjing:before {
+  content: "\e661";
+}
+
+.qu-icon-ziyuanxhdpi:before {
+  content: "\e64d";
+}
+
