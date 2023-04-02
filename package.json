@@ -1,7 +1,11 @@
 {
   "name": "qzh-ui",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "main": "dist/qzh-ui.umd.min.js",
+  "author": {
+    "name": "屈大"
+  },
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
